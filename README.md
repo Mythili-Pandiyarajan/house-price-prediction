@@ -2,6 +2,10 @@
 
 An end-to-end Machine Learning project to predict house prices using multiple regression algorithms.
 
+## 🚀 Live Demo
+- 🎯 Streamlit: https://house-price-prediction-mythili.streamlit.app/
+- 🤗 HuggingFace: https://huggingface.co/spaces/Mythili-Pandiyarajan/house-price-prediction
+
 ## 🔍 Project Overview
 This project compares 4 ML models:
 - Linear Regression
