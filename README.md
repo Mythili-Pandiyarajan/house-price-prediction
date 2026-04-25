@@ -37,10 +37,10 @@ streamlit run app.py
 ## 📊 Model Performance
 | Model | R² Score |
 |-------|----------|
-| Linear Regression | -- |
-| Decision Tree | -- |
-| Random Forest | -- |
-| XGBoost | -- |
+| Linear Regression | 0.973895 |
+| Decision Tree | 0.971223 |
+| Random Forest | 0.964018 |
+| XGBoost | 0.972747 |
 
 ## 📌 Dataset
 Dataset sourced from Kaggle - Housing Prices Dataset
