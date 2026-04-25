@@ -12,7 +12,7 @@ bedrooms = st.slider("Bedrooms", 1, 10, 3)
 bathrooms = st.slider("Bathrooms", 1, 10, 2)
 floors = st.slider("Floors", 1, 5, 1)
 age = st.number_input("Age of House (years)", min_value=0, value=10)
-garage = st.selectbox("Garage", [0, 1])
+garage = st.selectbox("Garage", [0, 1, 2, 3])
 
 if st.button("Predict Price"):
     input_df = pd.DataFrame([{
