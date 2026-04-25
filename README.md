@@ -35,12 +35,14 @@ streamlit run app.py
 ```
 
 ## 📊 Model Performance
-| Model | R² Score |
-|-------|----------|
-| Linear Regression | 0.973895 |
-| Decision Tree | 0.971223 |
-| Random Forest | 0.964018 |
-| XGBoost | 0.972747 |
+| Model | R² Score | RMSE
+|-------|----------| ---------- |
+| Linear Regression | 0.973895 | 503543.454061 |
+| Decision Tree | 0.971223 | 528686.262910|
+| Random Forest | 0.964018 | 591174.801043 |
+| XGBoost | 0.972747 | 514498.188744 |
+
+> ✅ Best Model: Linear Regression with R² Score of 0.9738
 
 ## 📌 Dataset
 Dataset sourced from Kaggle - Housing Prices Dataset
